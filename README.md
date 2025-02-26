@@ -79,7 +79,6 @@ In conclusion, our speech emotion recognition project successfully addressed the
 
 ---
 
-# [![Author](https://img.shields.io/badge/Author-Viraj%20Bhutada-blue.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virajnbhutada24/)
 
 ---
 
