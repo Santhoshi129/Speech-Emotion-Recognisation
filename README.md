@@ -1,6 +1,6 @@
 # Speech Emotion Recognition
 
-[![Watch the video](https://img.youtube.com/vi/QkSe113tZsA/maxresdefault.jpg)](https://youtu.be/QkSe113tZsA)
+
 
 ---
 
@@ -59,13 +59,13 @@ Throughout this project, we developed a robust speech-emotion recognition system
 
 3. **Machine Learning Model:**
    
-   - Implemented a deep learning model, specifically Convolutional Neural Networks (CNNs), for speech emotion recognition.
+   - Implemented a deep learning model for speech emotion recognition, specifically Convolutional Neural Networks (CNNs).
    
    - Trained the model on the preprocessed speech data, optimizing its architecture for optimal performance.
 
 4. **Model Performance:**
    
-   - Evaluated the model using metrics such as accuracy, precision, recall, and F1-score to measure its effectiveness in recognizing different emotions.
+   - Evaluated the model using accuracy, precision, recall, and F1-score metrics to measure its effectiveness in recognizing different emotions.
    
    - Achieved significant accuracy in emotion classification, showcasing the model's capability to distinguish between various emotional states in spoken language.
 
